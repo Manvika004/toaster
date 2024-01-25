@@ -1,0 +1,32 @@
+.main{
+    display: block;
+    width: 500px;
+    height: 300px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: auto;
+    font-size: smaller;
+}
+h1{
+    color: brown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+}
+h2{
+    color: brown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    text-align: center;
+}
+p1{
+    font-size: larger;
+    text-align: left;
+}
+p2{
+    font-size: x-small;
+    text-align: left;
+}
+img{
+    display: block;
+    margin: auto;
+}
